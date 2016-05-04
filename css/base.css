@@ -1,0 +1,20 @@
+body,h1,h2,h3,h4,h5,h6,form,input,ul,li,ol,dl,dt,dd,i,p,em,strong,del{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+*{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:12px;
+}
+a{
+	text-decoration:none;
+}
+a:hover{ text-decoration:none;
+}
+img{
+	border:none;
+}
+em,i{
+	font-style: normal;
+}
