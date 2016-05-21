@@ -426,7 +426,7 @@ line-height:36px;
 .bannerMain{
 	width:1200px;
 	height:398px;
-	background:yellow;
+	/*background:yellow;*/
 	margin:0 auto;
 	position:relative;
 }
