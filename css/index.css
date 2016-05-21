@@ -373,7 +373,7 @@ line-height:36px;
 	width:205px;
 	height:34px;
 	float:right;
-	background:green;
+	/*background:green;*/
 }
 .fenlei_left a{
 	width:168px;
@@ -814,7 +814,7 @@ line-height:36px;
 .sxBox .two{
 	width:330px;
 	height:360px;
-	background:purple;
+	/*background:purple;*/
     float:left;
     position:relative;
 }
@@ -831,7 +831,7 @@ line-height:36px;
 	height:4px;
 	float:left;
 	margin:0 3px;
-	background:green;
+	/*background:green;*/
 }
 .sxBox .two a{
 	width:330px;
@@ -1244,7 +1244,7 @@ line-height:36px;
 	width:320px;
 	height:360px;
 	float: left;
-	background:green;
+	/*background:green;*/
 	position: relative;
 }
 .sg_one img{
@@ -1254,7 +1254,7 @@ line-height:36px;
 	width:220px;
 	height:360px;
 	float: left;
-	background:red;
+	
 	position:relative;
 }
 .sg_two img{
